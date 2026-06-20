@@ -9,7 +9,7 @@ Previously built C++ ultra-low-latency trading systems and Python data pipelines
 |---|---|---|
 | [Corporate Debt Issuance Trends](https://github.com/dkervabon/sec-edgar-debt-issuance) | Python · Airflow · BigQuery · dbt · Dash | [→](https://corporate-debt-trends.onrender.com) |
 | [Crypto Microstructure Pipeline](https://github.com/dkervabon/crypto-microstructure-pipeline) | Python · Kafka · Confluent · BigQuery · dbt · Dash | [→](https://crypto-microstructure-dashboard.onrender.com) |
-| [Cross-Asset Risk Monitor](https://github.com/dkervabon/cross-asset-risk-monitor) | Python · Snowflake · dbt · Dash · GitHub Actions | [→](#) |
+| [Cross-Asset Risk Monitor](https://github.com/dkervabon/cross-asset-risk-monitor) | Python · Snowflake · dbt · Dash · GitHub Actions | [→](https://cross-asset-risk-monitor.onrender.com) |
 
 ## Skills
 
