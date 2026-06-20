@@ -5,6 +5,8 @@ Previously built C++ ultra-low-latency trading systems and Python data pipelines
 
 ## Projects
 
+Dashboard hosted on Render free tier — may take 30–60 seconds to wake on first load.
+
 | Project | Stack | Live |
 |---|---|---|
 | [Corporate Debt Issuance Trends](https://github.com/dkervabon/sec-edgar-debt-issuance) | Python · Airflow · BigQuery · dbt · Dash | [→](https://corporate-debt-trends.onrender.com) |
