@@ -1,16 +1,25 @@
-## Hi there 👋
+# Diego Kervabon
 
-<!--
-**dkervabon/dkervabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with a background in quantitative finance and capital markets infrastructure.
+Previously built C++ ultra-low-latency trading systems and Python data pipelines at Deutsche Bank.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Stack | Live |
+|---|---|---|
+| [Corporate Debt Issuance Trends](https://github.com/dkervabon/sec-edgar-debt-issuance) | Python · Airflow · BigQuery · dbt · Dash | [→](https://corporate-debt-trends.onrender.com) |
+| [Crypto Microstructure Pipeline](https://github.com/dkervabon/crypto-microstructure-pipeline) | Python · Kafka · Confluent · BigQuery · dbt · Dash | [→](https://crypto-microstructure-dashboard.onrender.com) |
+| [Cross-Asset Risk Monitor](https://github.com/dkervabon/cross-asset-risk-monitor) | Python · Snowflake · dbt · Dash · GitHub Actions | [→](#) |
+
+## Skills
+
+**Pipelines:** Python · Apache Airflow · Kafka · dbt Core  
+**Warehouses:** BigQuery · Snowflake  
+**Cloud:** GCP · Docker · Render · Confluent Cloud  
+**Languages:** Python · SQL · C++  
+**Domain:** Capital Markets · Fixed Income · Market Microstructure · Risk
+
+## Background
+
+4 years at Deutsche Bank across Client Lifecycle Management, C++ electronic trading systems,
+and Investment Banking data infrastructure (ETL pipelines, Dash dashboards, data validation).
