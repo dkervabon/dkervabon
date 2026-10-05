@@ -5,7 +5,8 @@ Previously built C++ ultra-low-latency trading systems and Python data pipelines
 
 ## Projects
 
-Dashboard hosted on Render free tier — may take 30–60 seconds to wake on first load.
+**PROJECTS NOT CURRENTLY HOSTED**
+
 
 | Project | Stack | Live |
 |---|---|---|
